@@ -1,0 +1,8 @@
+name = "Tensors"
+uuid = "fecac54f-1c59-499a-82d2-e6de265c691e"
+authors = ["Marcell <havlikmarcell@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Pythonish = "2a8daa0e-e2c2-413c-8706-f0ea396f2d19"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
